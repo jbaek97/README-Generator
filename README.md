@@ -13,3 +13,10 @@ https://drive.google.com/file/d/10liUyQSZBXPf3jfr6Fx2R0Bu9caB31Ix/view
 
 ##Screenshots
 ###Prompts and the message the user recieves once the README file is made
+<img width="530" alt="Screenshot 2023-04-03 at 10 04 02 PM" src="https://user-images.githubusercontent.com/118772984/229691783-55501a2a-16f2-4803-a674-b01195076ba5.png">
+
+###Sample README
+<img width="893" alt="Screenshot 2023-04-03 at 10 01 53 PM" src="https://user-images.githubusercontent.com/118772984/229691877-30ee2bb2-3ab3-49ba-bb68-8e5e5af2c0e3.png">
+
+###Sample README opened in preview
+<img width="793" alt="Screenshot 2023-04-03 at 10 02 01 PM" src="https://user-images.githubusercontent.com/118772984/229691925-80473669-2d72-4354-b68d-04bf6e3b933c.png">
