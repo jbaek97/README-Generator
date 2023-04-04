@@ -62,7 +62,7 @@ ${test}
 
 <a name="questions"></a>
 ## Questions
-For more information on this project feel free to find the repository on my GitHub profile: ${GitHub}
+For more information on this project feel free to find the repository on my GitHub profile: https://github.com/${GitHub}
 <br>
 If you'd like to contact me personally, feel free to email through my personal email: ${email}
 `;}
