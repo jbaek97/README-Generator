@@ -121,7 +121,7 @@ const prompt = () => {
             const readMe = generateReadMe(data);
 
             fs.writeFile(`${data.title}.md`, readMe, (err) =>
-            err ? console.log(err) : console.log('Successfully created index.html!'));
+            err ? console.log(err) : console.log('Congratulations your custom README has been made!'));
         })
     };
 
